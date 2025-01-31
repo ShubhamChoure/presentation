@@ -28,7 +28,7 @@ export default function Prizes() {
             </CardHeader>
             <CardContent>
               <ul className="list-disc list-inside text-white">
-                <li>₹5,000 Cash Prize</li>
+                <li>₹3,000 Cash Prize</li>
                 <li>Gold Medal</li>
                 <li>Certificate of Excellence</li>
               </ul>
@@ -42,7 +42,7 @@ export default function Prizes() {
             </CardHeader>
             <CardContent>
               <ul className="list-disc list-inside text-white">
-                <li>₹3,000 Cash Prize</li>
+                <li>₹2,000 Cash Prize</li>
                 <li>Silver Medal</li>
                 <li>Certificate of Achievement</li>
               </ul>

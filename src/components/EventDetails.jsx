@@ -6,7 +6,7 @@ import { CalendarDays, CreditCard, Users, Clock } from "lucide-react"
 
 export default function EventDetails() {
   const details = [
-    { icon: CalendarDays, title: "Date", content: "February 6th - 7th" },
+    { icon: CalendarDays, title: "Date", content: "February 6th" },
     { icon: Clock, title: "Time", content: "9:00 AM - 5:00 PM" },
     { icon: Users, title: "Team Size", content: "1 - 4 members" },
     { icon: CreditCard, title: "Entry Fee", content: "₹50 per person" },
