@@ -88,7 +88,7 @@ export default function Header() {
       <Button
         variant="outline"
         className="hidden lg:inline-flex bg-transparent border-blue-500 text-blue-500 hover:bg-blue-500 hover:text-white transition-colors"
-        onClick={() => window.open("https://forms.google.com/your-form-url", "_blank")}
+        onClick={() => window.open("https://forms.gle/fHReVNDFQqCSaoGc7", "_blank")}
       >
         Register Now
       </Button>
