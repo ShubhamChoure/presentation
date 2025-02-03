@@ -31,7 +31,7 @@ export default function Hero() {
         >
           <Button
             size="lg"
-            onClick={() => window.open("https://forms.google.com/your-form-url", "_blank")}
+            onClick={() => window.open("https://forms.gle/fHReVNDFQqCSaoGc7", "_blank")}
             className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-full shadow-lg transform transition hover:scale-105"
           >
             Register Now
